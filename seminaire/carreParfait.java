@@ -2,7 +2,7 @@
 
 public class carreParfait{
 
-    public static void main(String[]{
+    public static void main(String[] args){
 	    int i = 31;
 	    while(true){
 		int resultat = i * i;
